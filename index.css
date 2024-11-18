@@ -46,6 +46,13 @@ button {
     font-family: "Oswald", sans-serif;
 }
 
+button:hover {
+    background-color: #c59a6c;
+    color: #171717;
+    border-color: #d4af80;
+    cursor: pointer;
+}
+
 #water-entries-el {
     border: 3px solid #c59a6c;
     border-radius: 10px;
@@ -59,5 +66,3 @@ button {
         width: 295px
     }
   }
-
-
