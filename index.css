@@ -59,6 +59,7 @@ button:hover {
     background-color: #171717;
     margin: 8px;
     padding: 8px;
+    font-size: 14px;
 }
 
 @media (orientation: portrait) and (max-width: 480px) {

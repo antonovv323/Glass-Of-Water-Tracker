@@ -15,7 +15,7 @@ function save() {
 }
 
 function reset() {
-    waterEntriesEl.textContent = "Previous Glasses of Water Entries: "
+    waterEntriesEl.textContent = "PREVIOUS GLASSES OF WATER ENTRIES: "
     glassCount.textContent = 0
     count = 0
 }
